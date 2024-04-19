@@ -1,12 +1,7 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FUNCTIONS_WORKER_RUNTIME": "python",
-    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
-    "AzureWebJobsStorage": "",
-    "CosmosDBURL":"https://ed-resume-nosql.documents.azure.com:443/",
-    "CosmosDBKey":"7Okbp22GbB81dPBF2QtCisa6ED1eKdBXXMLHMvlplCY44bpgxGmLBpeYLBmklEifByv15qw3yYN1ACDbi88a5w=="
-    
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=dolatowskifestorage;AccountKey=l9d7hjZ/CeBhbg5s5+4BI621BLymVb79PonYz/ipq2zQdFp+S0dKbkl02LlXzv9OZgivQTErr3F7+AStUJgW0A==;EndpointSuffix=core.windows.net"
   }
 }
