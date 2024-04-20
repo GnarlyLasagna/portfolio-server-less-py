@@ -1,7 +1,10 @@
+
 {
   "IsEncrypted": false,
   "Values": {
     "FUNCTIONS_WORKER_RUNTIME": "python",
-    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=dolatowskifestorage;AccountKey=l9d7hjZ/CeBhbg5s5+4BI621BLymVb79PonYz/ipq2zQdFp+S0dKbkl02LlXzv9OZgivQTErr3F7+AStUJgW0A==;EndpointSuffix=core.windows.net"
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=dolatowskifestorage;AccountKey=l9d7hjZ/CeBhbg5s5+4BI621BLymVb79PonYz/ipq2zQdFp+S0dKbkl02LlXzv9OZgivQTErr3F7+AStUJgW0A==;EndpointSuffix=core.windows.net",
+    "CORS": "*"
   }
 }
+
