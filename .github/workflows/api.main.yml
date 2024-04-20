@@ -5,7 +5,7 @@ on:
   push:
       branches: [ main ]
       paths:
-      - 'api/**'
+      - '**'
 
 env:
   AZURE_FUNCTIONAPP_NAME: 'AzureResumeVisitorCounter'   # set this to your function app name on Azure
